@@ -1,0 +1,178 @@
+.p{
+  font-size: 1.7rem;
+}
+.navbar-brand{
+  font-family: 'Lora', serif;
+  font-size: 5rem;
+  font-weight:lighter;
+
+}
+.navbar{
+  padding: 0 0 4.5rem;
+  background-color: #5eaaa8;
+}
+.heading{
+  color: #393e46;
+  margin-top: px;
+  margin-left: 85px;
+  font-family: 'Carter One', cursive;
+  font-size: 2rem
+}
+.nav-item{
+  padding: 0 18px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.nav-link{
+  font-size: 1.5rem;
+  font-family: "Montserrat"
+  font-weight:400;
+}
+.title-button{
+  width: 300px;
+  height: 50px;
+  position: absolute;
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 10rem;
+  font-weight:lighter;
+  margin-top: 5px;
+  margin-left: 70px;
+  letter-spacing: 4px;
+}
+#subjects{
+ text-align: center;
+ background-color: white;
+}
+.start{
+  letter-spacing: 3px;
+  font-family: 'Quicksand', sans-serif;
+  background-color: #f0f5f9;
+}
+
+.text{
+  background-color:  #5eaaa8;
+  border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.box{
+  padding: 15px;
+}
+.boxE{
+  /* border-radius: 10%; */
+  width: 250px;
+  height: 150px;
+  border: 2px solid#5eaaa8;
+  padding: 15px;
+  margin-left: 60px;
+  margin-top: 120px;
+position: absolute;
+}
+.boxT{
+  /* border-radius: 10%; */
+  width: 250px;
+  height: 150px;
+  border: 2px solid #5eaaa8;
+  padding: 15px;
+  margin-left: 120px;
+  margin-top: 120px;
+  margin-bottom: 130px;
+  position: absolute;
+  right:780px;
+}
+.boxF{
+
+      margin-top: 300px;
+      margin-left: 80px;
+  /* border-radius: 10%; */
+  width: 250px;
+  height: 150px;
+  border: 2px solid #5eaaa8;
+  padding: 15px;
+position: absolute;
+}
+.boxU{
+margin-top: 300px;
+  /* border-radius: 10%; */
+  width: 250px;
+  height: 150px;
+  border: 2px solid #5eaaa8;
+  padding: 15px;
+  margin-left: 120px;
+  margin-bottom: 130px;
+  position: absolute;
+  right:780px;
+}
+.boxV{
+  left: 60px;
+  margin-left: 150px;
+  margin-top: 470px;
+  /* borer-radius: 10%; */
+  width: 250px;
+  height: 150px;
+  border: 2px solid #5eaaa8;
+  padding: 15px;
+  margin-bottom: 130px;
+  position: absolute;
+  right:800px;
+}
+.content{
+  text-align: center;
+  font-family: 'Darker Grotesque', sans-serif;
+  line-height: 1.7rem;
+}
+.images{
+  padding-left: 240px;
+    margin-left: 250px;
+    top: 100px;
+position: absolute;
+}
+.brwosegirlimg{
+    margin-top: 120px;
+    border-radius: 100px;
+    align-content: center;
+    position: relative;
+    margin-top: 50px;
+    margin-right: 0px;
+    left: 150px;
+}
+.doctor{
+  position: relative;
+  top: 270px;
+  left: 1170px;
+
+}
+.law{
+  position: relative;
+  top: 120px;
+  left: 1020px;
+}
+.engineering{
+  position: relative;
+  top: 80px;
+  left: 800px;
+}
+.artist{
+  position: relative;
+  top: 150px;
+  left: 600px;
+
+}
+.management{
+  position: relative;
+  top: 300px;
+  left: 470px;
+}
+#footer{
+
+background-color: #5eaaa8;
+text-align:center;
+font-size: 1rem;
+margin-bottom: 0;
+margin-top: 600px;
+/* padding-top: 40px; */
+}
+.smedia{
+  padding:3% 1% 1% 0;
+}

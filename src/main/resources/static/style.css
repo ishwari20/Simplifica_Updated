@@ -1,0 +1,100 @@
+.navbar-brand{
+  font-family: 'Lora', serif;
+  font-size: 5rem;
+  font-weight:lighter;
+
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+.heading{
+  color: #393e46;
+  margin-top: 30px;
+  margin-left: 85px;
+  font-family: 'Carter One', cursive;
+  font-size: 2rem
+}
+.nav-link{
+  font-size: 1.5rem;
+  font-family: "Montserrat"
+  font-weight:400;
+}
+
+h1{
+  font-family: 'Varela Round', sans-serif;
+  position: relative;
+  bottom: 45px;
+}
+
+  font-family: font-family: 'Varela Round', sans-serif;
+.container-fluid{
+  padding: 3% 15% ;
+  margin:0 auto;
+    width:960px;
+    position:relative;
+    overflow: hidden;
+}
+#topf{
+  background-color: #e097e8;
+  color: black;
+  margin-right: 0px;
+}
+.caption{
+  left: 470px;
+  top: 100px;
+  position: relative;
+  font-family: 'Darker Grotesque', sans-serif;
+  font-size:2.5rem;
+}
+.captiont{
+  left: 490px;
+  top: 100px;
+  position: relative;
+  font-family: 'Saira Stencil One', cursive;
+  font-size:
+}
+
+.title-button{
+  width: 300px;
+  height: 50px;
+  position: absolute;
+  font-family: 'Balsamiq Sans', cursive;
+  font-size: 10rem;
+  font-weight:lighter;
+  margin-top: 48px;
+  margin-left: 80px;
+  letter-spacing: 4px;
+}
+.title-image{
+  width: 30%;
+  right: 0;
+  bottom: 15%;
+  position: absolute;
+  padding-bottom: 100px;
+}
+.mixed-image{
+  width:40%;
+  bottom: 0%;
+
+  position:static;
+}
+.row{
+  margin-right: 0px;
+}
+#bottomf{
+  background-color: white;
+}
+#footer{
+
+background-color: #5eaaa8;
+text-align:center;
+font-size: 1rem;
+margin-bottom: 0;
+}
+.smedia{
+  padding:3% 1% 1% 0;
+}
